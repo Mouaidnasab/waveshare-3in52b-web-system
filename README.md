@@ -49,7 +49,7 @@ There are **four processing modes**:
 - Dither Color  
 
 For dithering, I used **Atkinson error-diffusion**.  
-Once processed, each image is split into **two layers (black and red)** before being sent to the screen.  
+Once processed, image is split into **two 1-bit images (black and red)** before being sent to the screen.  
 
 ---
 
