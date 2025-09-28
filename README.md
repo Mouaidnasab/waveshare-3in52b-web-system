@@ -77,7 +77,10 @@ I’ll share the files on **Printables** soon.
 ---
 
 ## 📸 Screenshots  
-| ![Upload](https://res.cloudinary.com/dnfii0una/image/upload/v1759076246/e-paper-3_zyd0gn.png) | ![Home](https://res.cloudinary.com/dnfii0una/image/upload/v1759076245/e-paper-1_occ8lr.png) | ![Screen](https://res.cloudinary.com/dnfii0una/image/upload/v1759076247/e-paper-4_udvfjb.png) |
+![Upload](https://res.cloudinary.com/dnfii0una/image/upload/v1759076246/e-paper-3_zyd0gn.png)
+![Home](https://res.cloudinary.com/dnfii0una/image/upload/v1759076245/e-paper-1_occ8lr.png) 
+![Screen](https://res.cloudinary.com/dnfii0una/image/upload/v1759076247/e-paper-4_udvfjb.png) 
+![Internals](https://res.cloudinary.com/dnfii0una/image/upload/v1759076248/e-paper-6_tmxlma.png) 
 
 
 
